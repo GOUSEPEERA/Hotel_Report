@@ -25,7 +25,7 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 1. First, you must install Git Bash.
 2. Here's where you can get Git Bash: https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
 3. We must look at the following while installing Git Bash: Don't choose as in Credential Manager as "none".
-4. After that, we have start Bash and type the following command: git clone https://github.com/gangadharparde/Group1
+4. After that, we have start Bash and type the following command: git clone https://github.com/GOUSEPEERA/Hotel_Report
 5. Next run a command: cd foldername/
 6. After that command is: git status
 7. Next command is: git add . (if we want to add files addtionally)
